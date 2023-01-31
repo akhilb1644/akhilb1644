@@ -20,7 +20,7 @@ You can click the Preview link to take a look at your changes.
   dice simulation, the monopoly game in python, and artificial intelligence based models. One of them takes a look into a projection
   by the model that the US would begin to increase tariffs in the 1980s(that didn't happen). I now treat that model like a possible
   alternate history as it could of happend. I am currently working on a new model that is better at predicting what will happen in 
-  the future of the United States of America.</p)
+  the future of the United States of America.</p>
 
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/Monopoly">Monopoly Directory</a>
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">Possible Alternate History</a>
