@@ -8,13 +8,13 @@
 akhilmanhattan/akhilmanhattan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<p>------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <p> Below is the number of people who have visited my profile from January 31, 2023. </p>
 
 ![Visitor Count](https://profile-counter.glitch.me/{akhilmanhattan}/count.svg)
 
-<p>------------------------------------------------------------------------------------------------------------------------------------------------------------------</p>
+<p>-------------------------------------------------------------------------------------------------------------------------------------------------------</p>
 
 <p>As you have visited my profile, I would like to reccomend you my big_projects repository to look at, which includes a monopoly
   dice simulation, the monopoly game in python, and artificial intelligence based models. One of them takes a look into a projection
