@@ -23,4 +23,5 @@ You can click the Preview link to take a look at your changes.
   the future of the United States of America.</p>
 
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/Monopoly">Monopoly Directory</a>
-<a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">Possible Alternate History</a>
+<a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">
+  Possible Alternate History</a>
