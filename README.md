@@ -21,7 +21,7 @@ You can click the Preview link to take a look at your changes.
 <p></p>
 <a href="https://github.com/akhilmanhattan/big_projects/tree/main/artificial_Intelligence/Regression/DecisionTree/AmericaPrediction(1)/JupyterNotebook">
   Possible Alternate History</a>
-
+<p></p>
 
 <p>In my cliodynamics repository, I have a directory dedicated to America and a statistical analysis in order to get a better
 picture of what has been going on in the US. I mean, the only things I used to remember was the first years of the country,
