@@ -31,4 +31,5 @@ been invented yet). I have a prediction where the US goes through a recession, a
 through a civil war. I'll let you explore from here on out.</p>
 
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/3">Civil War Prediction</a>
+
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/1">"Panic of 2025"?</a>
