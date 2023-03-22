@@ -33,3 +33,7 @@ through a civil war. I'll let you explore from here on out.</p>
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/3">Civil War Prediction</a>
 
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/1">"Panic of 2025"?</a>
+
+[![akhilmanhattan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmanhattan&show_icons=true&theme=ayu-mirage)](https://github.com/akhilmanhattan)
+
+[![Most Commonly Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmanhattan&layout=compact&theme=ayu-mirage)](https://github.com/akhilmanhattan)
