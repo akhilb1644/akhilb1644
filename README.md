@@ -27,12 +27,15 @@ You can click the Preview link to take a look at your changes.
 picture of what has been going on in the US. I mean, the only things I used to remember was the first years of the country,
 the civil war, and the post Great Depression era. However, this statistical analysis has deepened my understanding of
 American history. I also use this statistical analysis to see what could happen in the future(sorry, the crystal ball hasn't
-been invented yet). I have a prediction where the US goes through a recession, and a stronger predictino that the US goes 
-through a civil war. I'll let you explore from here on out.</p>
+been invented yet). I have a prediction where the US goes through a recession, and a stronger prediction that the US goes 
+through a civil war. One of my other predictions is about the civil war, but it will happen not now, but in the near
+future I'll let you explore from here on out.</p>
 
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/3">Civil War Prediction</a>
 
 <a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/1">"Panic of 2025"?</a>
+
+<a href="https://github.com/akhilmanhattan/cliodynamics/tree/main/America/7">Later Civil War Prediction</a>
 
 [![akhilmanhattan's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmanhattan&show_icons=true&theme=ayu-mirage)](https://github.com/akhilmanhattan)
 
