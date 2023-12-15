@@ -12,3 +12,5 @@ Note: Most HTML files are generally created by the Jupyter Notebook files(they a
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmanhattan)](https://github.com/akhilmanhattan/github-readme-stats)
 
 [![Senior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilmanhattan&repo=twentyTimeProject)](https://github.com/akhilmanhattan/twentyTimeProject)
+
+[![Junior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilmanhattan&repo=AI_in_Education)](https://github.com/akhilmanhattan/AI_in_Education)
