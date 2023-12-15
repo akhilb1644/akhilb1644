@@ -6,3 +6,5 @@
 - 🌱 I’m currently learning Artificial Intelligence.
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmanhattan)
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmanhattan)](https://github.com/akhilmanhattan/github-readme-stats)
