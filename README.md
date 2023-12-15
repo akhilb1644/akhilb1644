@@ -4,3 +4,5 @@
 - 👋 Hi, I’m @akhilmanhattan
 - 👀 I’m interested in history and Artificial Intelligence.
 - 🌱 I’m currently learning Artificial Intelligence.
+
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmanhattan)
