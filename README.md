@@ -5,12 +5,12 @@
 - 👀 I’m interested in history and Artificial Intelligence.
 - 🌱 I’m currently learning Artificial Intelligence.
 
-![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilmanhattan)
+![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilb1644)
 
 Note: Most HTML files are generally created by the Jupyter Notebook files(they are generally graphs and maps).
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilmanhattan)](https://github.com/akhilmanhattan/github-readme-stats)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilb1644)](https://github.com/akhilb1644/github-readme-stats)
 
-[![Senior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilmanhattan&repo=twentyTimeProject)](https://github.com/akhilmanhattan/twentyTimeProject)
+[![Senior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilb1644&repo=twentyTimeProject)](https://github.com/akhilb1644/twentyTimeProject)
 
-[![Junior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilmanhattan&repo=AI_in_Education)](https://github.com/akhilmanhattan/AI_in_Education)
+[![Junior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilb1644&repo=AI_in_Education)](https://github.com/akhilb1644/AI_in_Education)
