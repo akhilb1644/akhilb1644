@@ -7,8 +7,6 @@
 
 ![Akhil's GitHub stats](https://github-readme-stats.vercel.app/api?username=akhilb1644)
 
-Note: Most HTML files are generally created by the Jupyter Notebook files(they are generally graphs and maps).
-
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=akhilb1644)](https://github.com/akhilb1644/github-readme-stats)
 
 [![Senior Year Project](https://github-readme-stats.vercel.app/api/pin/?username=akhilb1644&repo=twentyTimeProject)](https://github.com/akhilb1644/twentyTimeProject)
